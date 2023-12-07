@@ -56,4 +56,4 @@ Link: Nike-Clone-Application GitHub Repository
 Clone the repository.
 Run the application using Vite.
 Explore the different sections and components that mimic the structure of a Nike web application.
-with the help by https://www.youtube.com/watch?v=tS7upsfuxmo&ab_channel=JavaScriptMastery
+Build with the help of https://www.youtube.com/watch?v=tS7upsfuxmo&ab_channel=JavaScriptMastery
